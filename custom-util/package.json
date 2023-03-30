@@ -1,0 +1,23 @@
+{
+  "name": "custom-util",
+  "version": "1.0.0",
+  "description": "组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ant-Design-Vue",
+    "Vue"
+  ],
+  "author": "x",
+  "license": "ISC",
+  "dependencies": {
+    "ant-design-vue": "^3.2.16",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "ts-loader": "^9.4.2",
+    "typescript": "^5.0.2"
+  }
+}
